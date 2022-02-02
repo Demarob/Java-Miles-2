@@ -5,7 +5,7 @@ public class Main {
 
         int percent = 5;
 
-        int bonus =  price * 5 / 100;
+        int bonus = price * 5 / 100;
 
         System.out.println(bonus);
 
